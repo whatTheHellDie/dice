@@ -1,0 +1,13 @@
+﻿ 
+ 全局变量:Life:true,window.LifePrivateKey.privateKey=''//私钥
+ 全局方法:
+  前端请求
+    betDetails(val),//val包含游戏类型，下注金额，空气费用
+    
+    
+    
+    
+    客户端请求
+    betPermission(val),//val为true可以下注，false拒绝下注
+    
+
